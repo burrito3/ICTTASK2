@@ -26,6 +26,7 @@ The app is designed to meet the following specifications:
 - The code implementation incorporates appropriate control structures and data structures to develop a robust solution.
 - The solution is free of errors, ensuring smooth functionality and reliable performance.
 - Extensive testing has been conducted to ensure that the solution meets the task description and specifications effectively.
+- ICT.js incorporates these control structures and provides an ample solution to the given problem.
 - Sources: Mdn web docs, w3schools, chatgpt.
 ### Internal Documentation (Code Comments)
 - The code is well-documented with extensive and meaningful internal comments.
